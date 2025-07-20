@@ -25,3 +25,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# Environment variables
+# .env
+
+# Other ignores like node_modules
+# /node_modules
